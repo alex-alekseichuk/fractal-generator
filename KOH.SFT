@@ -1,0 +1,34 @@
+/
+/
+/      KOH  Fractal
+/
+/      Copyright (C) Alexander Alexeychuk 1997
+/
+/
+
+
+Fractal Main  x0=50 y0=300 x1=500 y1=0 x2=0 y2=500
+
+  Item
+    x1 0.3333333333
+  End
+ 
+  Item 
+     x0=0.6666666667
+     x1=0.3333333333
+  End
+ 
+  Item
+     x0=0.333333333
+     x1=0.166666667
+     y1=0.2886751
+  End
+
+  Item
+    x0=0.5
+    y0=0.2886751
+    x1=0.16666666667
+    y1=-0.2886751
+  End
+
+End  /  Main

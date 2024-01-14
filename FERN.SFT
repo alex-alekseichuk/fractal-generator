@@ -1,0 +1,38 @@
+/
+/
+/      Fern  Fractal
+/
+/      Copyright (c) ALexander Alexeychuk
+/
+/
+
+
+
+f Fern   x0=300 y0=460 y1=-450 x1=0 x2=450 y2=0
+                               
+  l
+    x2 0.23 
+    c 2
+  e  
+   
+  i 
+    x1 0.77 
+    y1 0.03
+    x0 0.23
+    c 10
+  e  
+   
+   
+  i x1 0.304055916
+    y1 -0.304055916
+    x0 0.05
+    c 10
+  e
+   
+   
+  i x1 0.23334524
+    y1 0.23334524
+    x0 0.1
+    c 10
+  e
+e

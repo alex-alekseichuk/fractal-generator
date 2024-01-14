@@ -1,0 +1,40 @@
+/
+/
+/      CIRCLE  Fractal
+/
+/      Copyright (C) Alexander Alexeychuk 1997
+/
+/
+
+
+Fractal Main  x0=0 y0=400 x1=400 y1=0 x2=0 y2=400
+
+  ci
+     x=0.5
+     y=0.5
+     r=0.4
+     c=9
+     fill=1
+  e
+
+   ci
+     x=0.5
+     y=0.5
+     r=0.3
+     c=10
+  e
+
+  ci
+     x=0.5
+     y=0.5
+     r=0.2
+     c=11
+  e
+
+  Item
+
+    x1 0.7
+
+  End
+
+End  /  Main
